@@ -1,1 +1,1 @@
-# hand-written-digit-recognition
+# handwritten-digit-recognition
